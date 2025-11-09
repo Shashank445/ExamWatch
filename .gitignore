@@ -36,10 +36,10 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Model files (large files - uncomment if you want to exclude)
-# *.pt
-# *.pth
-# *.onnx
+# Model files (large files - excluded from repository)
+*.pt
+*.pth
+*.onnx
 
 # Output files
 output_*.mp4
