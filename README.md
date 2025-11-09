@@ -99,13 +99,6 @@ python examwatch.py
 
 ---
 
-## 🧑‍💻 Author
-
-**Syeda Eman Saleem**
-[GitHub](https://github.com/SyedaEmanSaleem) • [LinkedIn](#)
-
----
-
 ## 🏷️ License
 
 Released under the **MIT License** — free to use, modify, and distribute.
